@@ -1,0 +1,11 @@
+D:\KV-SaaS\backend\migration\target\debug\deps\libfutures_lite-8b44b91f38568ad7.rmeta: C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\lib.rs C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\future.rs C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\prelude.rs C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\stream.rs C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\io.rs
+
+D:\KV-SaaS\backend\migration\target\debug\deps\libfutures_lite-8b44b91f38568ad7.rlib: C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\lib.rs C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\future.rs C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\prelude.rs C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\stream.rs C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\io.rs
+
+D:\KV-SaaS\backend\migration\target\debug\deps\futures_lite-8b44b91f38568ad7.d: C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\lib.rs C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\future.rs C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\prelude.rs C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\stream.rs C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\io.rs
+
+C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\lib.rs:
+C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\future.rs:
+C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\prelude.rs:
+C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\stream.rs:
+C:\Users\hcd\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-lite-2.6.0\src\io.rs:
