@@ -15,6 +15,7 @@
 - [09-security-overview.md](./docs/09-security-overview.md)
 - [10-legal-and-compliance.md](./docs/10-legal-and-compliance.md)
 - [README.md](./docs/README.md)
+- [UPDATING_GUIDE.md](./docs/UPDATING_GUIDE.md)
 
 ### 中文文档
 

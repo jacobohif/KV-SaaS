@@ -56,6 +56,7 @@ yarn-error.log*
 # will be ignored by default
 
 /target
+/backend/target
 
 # Remove Cargo.lock from gitignore if creating a library, binary, or example
 # More information: https://doc.rust-lang.org/cargo/faq.html#cargolock-in-version-control
